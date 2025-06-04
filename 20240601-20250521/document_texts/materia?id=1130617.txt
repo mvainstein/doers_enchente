@@ -1,0 +1,377 @@
+RESOLUÇÃO Nº 529/24 - CIB/RS
+
+A Comissão Intergestores Bipartite/RS, no uso de suas atribuições legais, e considerando:
+a Lei nº 8.080, de 29/09/1990, que dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá outras providências;
+a Portaria GM/MS nº 4.306, de 11/07/2024, que estabeleceu recurso do Bloco de Manutenção das Ações e Serviços Públicos de Saúde - Grupo da atenção Especializada, aos Municípios e Estado do Rio Grande do Sul;
+a Resolução nº 318/2024 - CIB/RS, substituída pela de nº 289/2024, que solicita o incremento, em caráter excepcional e temporário, como incentivo financeiro de custeio, para subsidiar a abertura de novos leitos clínicos para internação imediata;
+a pactuação realizada na Reunião da CIB/RS, de 07/08/2024.
+RESOLVE :
+Art. 1º - Atualizar o Anexo da Resolução nº 318/24 - CIB/RS, que solicitou recurso a 594 (quinhentos e noventa e quatro) novos "Leitos de Calamidade", para subsidiar os atendimentos nos hospitais não atingidos diretamente pela enchente, com disponibilidade imediata de internação e com capacidade de sustentar a lacuna deixada pelos atingidos parcial ou integralmente pelas enchentes e que ainda não retomaram a sua capacidade plena.
+Parágrafo Único - A atualização do Anexo se faz necessária devido a solicitação por parte dos hospitais, de desabilitação, ingresso e alteração dos quantitativos de leitos informados anteriormente.
+Art. 2º - Esta Resolução entrará em vigor a partir da data da sua publicação
+Porto Alegre, 08 de agosto de 2024.
+ANEXO - RESOLUÇÃO Nº 529/24 - CIB/RS
+
+CNES
+CIDADE
+MACRO
+HOSPITAL
+GESTÃO DO HOSPITAL
+LEITOS
+2248328
+Alegrete
+Centro-Oeste
+Santa Casa de Alegrete
+Estadual
+10
+2232081
+Alvorada
+Metropolitana
+Hospital Ana Nery Sta Cruz do Sul
+Estadual
+10
+2252058
+Boqueirão do Leão
+Vales
+Hospital Dr. Anuar Elias Aess
+Municipal
+10
+2261987
+Bagé
+Sul
+Santa Casa de caridade de Bagé
+Estadual
+15
+2234416
+Caçapava do Sul
+Vales
+Hospital de Caridade Dr. Victor Lang
+Estadual
+6
+2266474
+Cachoeira do Sul
+Vales
+Hospital de Caridade e Benficência
+Municipal
+10
+2232103
+Cachoeirinha
+Metropolitana
+Hospital Padre Jeremias
+Estadual
+0
+2259850
+Caibaté
+Missioneira
+Hospital Roque Gonzales
+Estadual
+5
+2246872
+Casca
+Norte
+Hospital Beneficente Santa Lúcia
+Estadual
+4
+2235307
+Chapada
+Norte
+Sociedade Beneficente Hospital São José de Chapada
+Estadual
+10
+2708000
+Crissiumal
+Missioneira
+Hospital de Caridade
+Estadual
+0
+6844138
+Dois Irmãos
+Metropolitana
+Hospital São José
+Estadual
+10
+2262002
+Dom Pedrito
+Sul
+Santa Casa de Caridade
+Estadual
+15
+2232030
+Esteio
+Metropolitana
+Fundação de Saúde Pública São Camilo
+Municipal
+10
+2240335
+Farroupilha
+Serra
+Hospital Beneficente São Carlos
+Municipal
+14
+2257645
+Garibaldi
+Serra
+Hospital Beneficente São Pedro
+Municipal
+10
+2793237
+Guaporé
+Serra
+Associação Hospitalar Manoel Francisco Guerreiro
+Municipal
+10
+2227665
+Igrejinha
+Metropolitana
+Hosptial Bom Pastor
+Estadual
+10
+2261030
+Ijui
+Missioneira
+Hospital Bom Pastor
+Estadual
+14
+3819590
+Lagoa Vermelha
+Norte
+Hospital São Paulo
+Estadual
+5
+2252007
+Marques de Souza
+Vales
+Hospital Marques de Souza
+Municipal
+10
+2257556
+Montenegro
+Metropolitana
+Hospital Montenegro
+Estadual
+6
+2224615
+Mostardas
+Metropolitana
+Hospital São Luiz
+Estadual
+9
+2246910
+Não Me Toque
+Norte
+Hospital Beneficência Alto Jacuí
+Estadual
+10
+5230241
+Nova Bassano
+Serra
+Assoc Comunitária Hospital Nossa Senhora de Lourdes
+Municipal
+10
+2247046
+Paim Filho
+Norte
+Hospital Santa Terezinha
+Estadual
+10
+2227762
+Parobé
+Metropolitana
+Hospital São Francisco de Assis
+Estadual
+15
+2254956
+Panambi
+Missioneira
+Hospital Panambi
+Municipal
+4
+2241218
+Paraí
+Serra
+Hospital Beneficente Nossa Senhora Aparecida
+Municipal
+8
+2246929
+Passo Fundo
+Norte
+Hospital de Clinicas
+Estadual
+10
+2252694
+Pelotas
+Sul
+Hospital Escola
+Municipal
+10
+2253054
+Pelotas
+Sul
+Santa Casa de Pelotas
+Municipal
+10
+2252295
+Pelotas
+Sul
+Solicedade Beneficencia Portuguesa
+Municipal
+10
+2253046
+Pelotas
+Sul
+Hospita Universitário São Francisco de Paula
+Municipal
+10
+2233347
+Piratini
+Sul
+Hosoital de Caridade Nossa Senhora da Conceição
+Estadual
+13
+2250810
+Porto Lucena
+Missioneira
+Hospital São José
+Estadual
+5
+5026253
+Porto Alegre
+Metropolitana
+Hospital Porto Alegre
+Municipal
+50
+2259982
+Porto Xavier
+Missioneira
+Hospital de Caridade Nossa Senhora dos Navegantes
+Estadual
+7
+2228734
+Rodeio Bonito
+Norte
+Associação Hospitalar São José
+Estadual
+5
+2235412
+Ronda Alta
+Norte
+Associação dos Trabalhadores de Ronda Alta- ATRA
+Estadual
+10
+2248239
+Rosário do Sul
+Centro-Oeste
+Hospital de Caridade Nossa Senhora Auxiliadora
+Estadual
+10
+2254611
+Santa Rosa
+Missioneira
+Hospital Vida e Saúde
+Municipal
+10
+6389104
+Santo Antônio da Patrulha
+Metropolitana
+Hospital Santo Antônio da Patrulha
+Estadual
+15
+2248298
+São Borja
+Missioneira
+Hospitalar Ivan Goulart
+Municipal
+6
+2244330
+São Francisco de Assis
+Centro-Oeste
+Hospital Santo Antônio
+Estadual
+10
+6424236
+São Jerônimo
+Metropolitana
+Hospital Regional de São Jerônimo
+Estadual
+50
+2246791
+São José do Ouro
+Norte
+Hospital São José
+Estadual
+5
+2233312
+São Lourenço do Sul
+Sul
+Santa Casa de Misericórdia
+Estadual
+10
+2227908
+São Sebastião Cai
+Metropolitana
+Hospital Sagrada Família
+Estadual
+10
+2232154
+Sapiranga
+Metropolitana
+Hospital Sapiranga
+Estadual
+5
+2228610
+Seberi
+Norte
+Hospital Pio XII Seberi
+Estadual
+0
+2260050
+Serafina Corrêa
+Norte
+Hospital Nossa Senhora do Rosário
+Municipal
+10
+2246805
+Sertão
+Norte
+Hospital São José
+Estadual
+5
+2257572
+Tapes
+Metropolitana
+Hospital Nossa Senhora do Carmo
+Municipal
+20
+2246740
+Tapejara
+Norte
+Hospital Santo Antônio
+Estadual
+5
+5384117
+Tenente Portela
+Norte
+Hospital Santo Antônio
+Estadual
+10
+2252244
+Teutônia
+Vales
+Hospital Ouro Branco
+Municipal
+3
+2241048
+Vacaria
+Serra
+Hospital Nossa Senhora Oliveira
+Municipal
+5
+2707977
+Veranópolis
+Serra
+Hospital Comunitário São Peregrino Lazziozi
+Municipal
+5
+TOTAL DE LEITOS
+594
+*O contrato e o repasse financeiro dos hospitais localizados nos municípios com gestão da atenção especializada é de responsabilidade do ente municipal.
