@@ -1,4 +1,4 @@
-Dados para busca por "enchente" apenas 
+Dados para busca por "enchente" apenas => Arquivo principal: newpage-crawler_mhv.py
 
 Diretórios estão com data_inicio_busca-data_fim_busca no formato YYYYMMDD mo final do nome.
 
