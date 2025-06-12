@@ -1,0 +1,358 @@
+EDITAL DE CHAMAMENTO PÚBLICO SICT 04/2025
+PROGRAMA RS TALENTOS - RESILIÊNCIA CLIMÁTICA E ATIVAÇÃO ECONÔMICA
+
+1 INTRODUÇÃO
+
+A SECRETARIA DE INOVAÇÃO, CIÊNCIA E TECNOLOGIA - SICT, em conformidade com suas finalidades, torna público o EDITAL DE CHAMAMENTO PÚBLICO SICT Nº 04/2025, e convida as Instituições Comunitárias de Educação Superior - ICES - do Estado do Rio Grande do Sul a apresentarem propostas nos termos aqui estabelecidos para participarem da seleção pública e, assim, concorrerem aos recursos pertinentes ao Programa RS Talentos - Resiliência Climática e Ativação Econômica, disponibilizados no orçamento de 2025, conforme disposto na Lei Federal nº 13.019/2014 , no Decreto Estadual n° 53.175/2016 , na Instrução Normativa CAGE Nº 05/2016, na Lei Federal nº 14.133/2021, na Lei Complementar nº 15.639/2021, no Decreto Estadual nº 58.006/2025, no Decreto Estadual nº 58.007/2025, bem como na Portaria SICT nº 15/2025 e nos ANEXOS I até VII, partes integrantes deste Edital.
+
+A celebração de parcerias pertinentes aos projetos classificados no presente Edital deverá observar o que define a Resolução nº 07/2025 da Secretaria de Reconstrução Gaúcha, de 14/04/2025, que dispõe sobre a autorização de financiamento a projetos do Plano Rio Grande, Programa de Reconstrução, Adaptação e Resiliência Climática do Estado do Rio Grande do Sul, com recursos oriundos do Fundo do Plano Rio Grande - FUNRIGS, considerando especialmente o teor do artigo 8º. 1
+
+2 OBJETO
+
+O presente Edital tem como objeto selecionar propostas de Instituições Comunitárias de Educação Superior (ICES), com sede no Rio Grande do Sul, localizadas nos ecossistemas regionais de inovação, conforme Portaria SICT nº 56/2022, diretamente afetados pelo desastre climático de maio/2024 - Região Metropolitana e Litoral Norte, Região dos Vales, Região Sul, Região Serra Gaúcha e Região Central - para o fortalecimento de cursos de graduação em áreas estratégicas para o desenvolvimento do Estado do Rio Grande do Sul, conforme definido pelo Conselho Gestor do Programa, em consonância com os princípios estabelecidos no art. 2º do Decreto, que orientam a formação qualificada, a aproximação com os ambientes de inovação e a interação com o setor produtivo, por meio da concessão de até 200 (duzentas) cotas de bolsas de estudos (taxa acadêmica à Instituição e bolsa de estímulo à inovação ao aluno), no âmbito do Programa RS Talentos.
+
+3 OBJETIVOS
+
+3.1 O Programa RS Talentos, instituído pelo Decreto n° 58.006/2025, consiste:
+
+I - no apoio a discente de cursos de graduação em áreas estratégicas definidas no item 4 deste Edital, ofertados por Instituições Comunitárias de Educação Superior, sem fins lucrativos, sediadas no Estado do Rio Grande do Sul, selecionadas conforme o disposto no Decreto n° 58.006/2025, no Regulamento do Programa publicado na Portaria SICT n° 15/2025 e no respectivo Edital de Seleção Pública;
+
+II - na concessão de bolsa de estudos aos alunos selecionados pelo período de 18 meses, conforme o Regulamento do Programa, que compreende a:
+taxa acadêmica, englobando a isenção de taxas, matrículas e mensalidades correspondente a, no mínimo, 20 créditos, à Instituição Comunitária de Educação Superior; e
+bolsa de estímulo à inovação na modalidade BICT 5, concedida pelo Estado, conforme as normas definidos no Decreto n° 58.007/2025, respeitados os limites da disponibilidade orçamentária.
+III - na formação de jovens preparados para o mercado de trabalho;
+
+IV - na oferta de um programa com foco em carreiras voltadas à área de tecnologia;
+
+V - na atração de jovens de todo o país a partir dos incentivos proporcionados pelo Estado para a formação universitária em carreiras tecnológicas;
+
+VI - na atração de empresas intensivas em conhecimento e tecnologia para o Estado e o desenvolvimento das existentes; e
+
+VII - na promoção da formação e do desenvolvimento de recursos humanos, incentivando sua capacitação nas áreas de pesquisa, ciência, tecnologia e inovação.
+
+4 BOLSAS EM ÁREAS ESTRATÉGICAS
+
+4.1 Para a implantação do Programa RS Talentos, serão disponibilizadas 200 (duzentas) bolsas de estudos a Instituições Comunitárias de Educação Superior, em cursos de graduação em áreas estratégicas definidas pelo Conselho Gestor, distribuídas no Estado do Rio Grande do Sul, conforme estabelecido no item 3.1 do presente Edital.
+
+4.2 As bolsas de estudos serão distribuídas para as seguintes áreas estratégicas 2 : Ciência da Computação ou de Dados; Engenharia de Computação ou de Software; Engenharia de Controle e Automação; Engenharia Elétrica ou Eletrônica; Engenharia Mecânica; Engenharia Química.
+
+4.3 A SICT atenderá as propostas submetidas de acordo com as áreas estratégicas listadas no item 4.2 e com a oferta de bolsas por ecossistema regional de inovação (Portaria SICT nº 56/2022), conforme exposto no Quadro 1, considerando a ICES sediadas no Estado do Rio Grande do Sul e a ordem de classificação resultante da aplicação dos critérios previstos no item 10 deste Edital.
+
+Quadro 1 - Distribuição das Bolsas em Áreas Estratégicas
+
+Ecossistema Regional de Inovação
+Bolsas de Estudos
+Metropolitana e Litoral Norte
+90
+Dos Vales
+50
+Serra Gaúcha
+35
+Sul
+10
+Central
+15
+
+4.4 O Conselho Gestor do Programa RS Talentos terá competência para deliberar sobre a prioridades das áreas e a (re)distribuição das bolsas de estudos de acordo as necessidades dos ecossistemas regionais de inovação e de formação de recursos humanos em áreas estratégicas para o desenvolvimento econômico, inclusivo e sustentável do Estado do Rio Grande do Sul.
+
+5 CRITÉRIOS DE ELEGIBILIDADE E REQUISITOS PARA A SUBMISSÃO DE PROPOSTAS
+
+5.1 As bolsas de estudos em cursos de graduação nas áreas estratégicas definidas no item 4 do presente Edital poderão ser disponibilizadas somente no âmbito das Instituições Comunitárias de Educação Superior - ICES -, conforme a Lei Federal nº 12.881/2013, sem fins lucrativos, sediadas no Estado do Rio Grande do Sul.
+
+5.2 As ICES devem estar localizadas em regiões diretamente afetadas pelo desastre climático de maio de 2024, a saber: Região Metropolitana e Litoral Norte, Região dos Vales, Região Sul, Região Serra Gaúcha e Região Central - conforme Portaria SICT nº 56/2022 que dispõe sobre a abrangência territorial dos Ecossistemas Regionais de Inovação.
+
+5.3 O curso de graduação participante deve ter carga horária mínima de 3.600 (três mil e seiscentas) horas e formação por áreas de conhecimento elencadas no item 4 do presente Edital.
+
+5.4 O curso de graduação participante deve ser ofertado na modalidade presencial e deve apresentar Conceito Preliminar de Curso (CPC) igual ou superior a 4.
+
+5.5 O curso de graduação participante deverá:
+
+a) fomentar a formação de qualidade em áreas estratégicas para o desenvolvimento do Estado;
+
+b) fomentar a formação de alunos conectados aos ambientes de inovação do Estado em consonância com a Política Estadual de Ciência, Tecnologia e Inovação;
+
+c) propiciar, durante o período de formação, a interação com o setor produtivo nas áreas de formação dos alunos por meio de estágios, vivências e outras formas de aproximação, visando a futura inserção profissional dos alunos; e
+
+d) incentivar a participação dos alunos em projetos de pesquisa e desenvolvimento na relação universidade-empresa como bolsistas de iniciação científica e tecnológica;
+
+e) fomentar atividades de ensino, pesquisa e extensão que dialogam com os temas de sustentabilidade e de mudanças climáticas, especialmente adaptação e resiliência climática.
+
+5.6 Com base nos princípios da Lei Federal nº 14.133/2021, as ICES interessadas nesta chamada pública deverão demonstrar, em suas propostas, comprometimento com a sustentabilidade ambiental, social e econômica. A avaliação considerará positivamente as iniciativas que promovam práticas sustentáveis, gestão eficiente de recursos e contribuam para a equidade de gênero, inclusão social e impacto positivo na comunidade. A inclusão de medidas concretas e mensuráveis nesse sentido será valorizada durante o processo de seleção, reforçando o compromisso desta chamada com o desenvolvimento sustentável.
+
+6 BOLSAS DE ESTUDOS
+
+6.1 As cotas de bolsas de estudo do Programa RS Talentos serão concedidas pela SICT.
+
+6.2 As bolsas de estudo serão concedidas aos alunos que atendam aos requisitos legais e aos seguintes critérios:
+
+I - não tenham sido desligados anteriormente de programas de bolsas similares, devido ao descumprimento ou à violação de normas estabelecidas;
+
+II - tenham participado do Exame Nacional do Ensino Médio - ENEM e obtido o mínimo de 500 (quinhentos) pontos na média das cinco notas obtidas nas provas do exame;
+
+III - estejam cursando o primeiro ano letivo dos cursos contemplados no presente Edital;
+
+IV - tenham disponibilidade para se engajar em programas de iniciação científica e tecnológica;
+
+V - comprometam-se a interagir, durante a sua formação, com o setor produtivo por meio de estágios, vivências e outras formas de aproximação com a economia gaúcha;
+
+VI - comprometer-se a atender aos requisitos de frequência e desempenho acadêmico previstos no Regulamento do Programa RS Talentos; e
+
+VII - permaneçam no Estado por dois anos após a conclusão do curso e respectiva diplomação na graduação, visando contribuir com o desenvolvimento econômico e social do Estado.
+
+6.3 Na hipótese de descumprimento das contrapartidas de que tratam os incisos IV, V, VI e VII do item 6.2, o aluno beneficiário será desligado do Programa e deverá restituir os valores percebidos a título de bolsa de estímulo à inovação, bem como os valores equivalentes à taxa acadêmica consistente na isenção de taxas, matrículas e mensalidades, devidamente corrigidos.
+
+6.4 A manutenção das bolsas de estudos dependerá do cumprimento do prazo máximo para a conclusão do curso e dos requisitos de desempenho acadêmico definidos em regulamento expedido pelo Conselho Gestor do Programa RS Talentos.
+
+6.5 As bolsas de estudos que vierem a vagar em razão de evasão ou por exclusão do Programa poderão ser redistribuídas para outros alunos selecionados nos termos do presente edital de seleção pública.
+
+6.6 O prazo de vigência das bolsas é de 18 (dezoito) meses e não haverá prorrogação.
+
+6.7 Os alunos beneficiários do Programa RS Talentos devem, obrigatoriamente, ter ciência e firmar termo de outorga com a SICT, visando comprometer-se com os requisitos e critérios exigidos para ingresso e permanência no Programa.
+
+7 OBRIGAÇÕES DAS ICES CONTEMPLADAS
+
+7.1 São obrigações das ICES contempladas por esta seleção pública:
+
+I - Manter o Conselho Gestor informado sobre quaisquer eventos que dificultem ou interrompam a execução dos compromissos assumidos no instrumento jurídico celebrado;
+
+II - Informar ao Conselho Gestor do RS Talentos, semestralmente, a efetividade dos alunos beneficiados, bem como aqueles com óbice à manutenção do benefício, com a respectiva identificação do motivo;
+
+III - Permitir e facilitar o acompanhamento pelo Conselho Gestor de todas as atividades destinadas ao cumprimento dos compromissos assumidos no instrumento jurídico;
+
+IV - Apresentar relatórios semestrais de acompanhamento, em que dados de frequência, evasão e desempenho serão avaliados, cujo formato será disponibilizado às ICES;
+
+V - Participar de um Seminário Anual de Acompanhamento do Programa RS Talentos - Resiliência Climática e Ativação Econômica;
+
+VI - Indicar uma ICES representante, entre as contempladas, que desempenhará o papel de coordenadora estadual do Programa, para que as ações sejam alinhadas com o Governo do Estado visando ao atendimento dos objetivos comuns;
+
+VII - Realizar, no prazo definido no Regulamento do Programa, as adequações administrativas e curriculares necessárias ao atendimento das finalidades do Programa;
+
+VIII - Conceder o número de taxas acadêmicas de acordo com o número de bolsas de estudo apoiadas no âmbito do Programa durante a vigência da parceria, consistentes na isenção de taxas, matrículas e mensalidades, bem como conceder isenção da taxa de inscrição aos candidatos do Programa em processo seletivo para admissão nos cursos;
+
+IX - Selecionar os alunos mediante processo seletivo baseado na nota do Exame Nacional do Ensino Médio - ENEM, atendendo os princípios da impessoalidade e da publicidade, observados os requisitos mínimos obrigatórios estabelecidos no Regulamento. A instituição deverá providenciar ampla divulgação dos documentos relacionados ao processo seletivo de todos os bolsistas, bem como dos seus resultados;
+
+§ 1° A seleção dos bolsistas para participação no Programa é de inteira responsabilidade da ICES;
+
+§ 2° Os registros do processo seletivo e os demais documentos exigidos pela SICT para cadastramento dos bolsistas deverão ser mantidos sob a guarda da ICES, pelo período de cinco anos a partir da conclusão do curso, e disponibilizados à SICT ou aos órgãos de controle interno ou externos, quando solicitados.
+
+X - Reservar bolsas para a implementação de políticas afirmativas de acesso ao ensino superior às pessoas com deficiência, às pessoas negras, às pessoas transexuais e aos integrantes dos povos indígenas, observado o Regulamento do Programa, respeitados os percentuais e hipóteses previstos nas normativas do Estado (Decreto nº 56.229, de 7 de dezembro de 2021) para reserva de vagas em concursos públicos para o provimento de cargos efetivos no âmbito da administração pública estadual;
+
+XI - Divulgar entre os interessados, especialmente os candidatos e os beneficiários, todas as normas do Programa e o teor das comunicações feitas pela Secretaria de Inovação, Ciência e Tecnologia;
+
+XII - Promover ações com a educação básica focadas na sensibilização para as carreiras de ciência, tecnologia, engenharia e matemática (acrônimo STEM) por meio da extensão universitária;
+
+XIII - Proporcionar atividades extracurriculares de apoio educacional visando complementar o aprendizado com foco nas disciplinas com maior taxa de reprovação, caso houver necessidade;
+
+XIV - Promover atividades de formação e capacitação para atores da quádrupla hélice (poder público, academia, setor produtivo e sociedade civil organizada), envolvendo temas ligados à inovação, criatividade e empreendedorismo, com foco nas áreas contempladas no programa;
+
+XV - Articular-se com as associações municipais e entidades representantes de indústria, comércio, serviços, ciência, tecnologia e inovação, a fim de criar processos de integração com vistas ao desenvolvimento de competências e áreas de concentração adequadas às características da região;
+
+XVI - Manter programas institucionais de iniciação científica e tecnológica com foco nas áreas contempladas no Programa;
+
+XVII - Escolher um Coordenador Institucional que ficará responsável pelo contato entre a SICT e a ICES;
+
+XVIII - Cumprir os demais requisitos definidos no Regulamento do Programa e no presente Edital de seleção pública;
+
+XIX - Demonstrar regularidade fiscal com a Fazenda Pública Federal, Estadual e Municipal, mediante a apresentação das respectivas certidões;
+
+XX - Manter, por no mínimo cinco anos após o término da parceria, os comprovantes das despesas financeiras vinculadas à execução do Programa, conforme previsto na legislação vigente, ciente de possíveis auditorias semestrais pelo Estado.
+
+8 SUBMISSÃO DE PROPOSTAS
+
+8.1 A ICES que submeter proposta no âmbito desta seleção declara aceitar as condições estabelecidas neste edital, bem como o Regulamento do Programa RS Talentos.
+
+8.2 Cada ICES deverá submeter apenas uma proposta contemplando os cursos a serem pleiteados e, se selecionados, ofertados.
+
+8.3 A proposta deve ser apresentada conforme o Anexo I, devidamente acompanhada de toda a documentação explicitada nos Anexos II a V, e deve ser submetida via PORTAL DE CONVÊNIOS E PARCERIAS RS (https://www.convenioseparcerias.rs.gov.br).
+
+8.4 A proposta deverá ser apresentada pelo Coordenador de curso na ICES, impreterivelmente no período de 30 de abril de 2025 a 02 de junho de 2025.
+
+8.5 As ICES deverão apresentar a seguinte documentação:
+
+I - Proposta de projeto, de forma detalhada, enfocando questões de formação, tecnológicas e de inovação - contemplado no Anexo I;
+
+II - Diagnóstico institucional, contendo informações sobre como a ICES conduz a pesquisa pedagógica, o histórico de produção acadêmica, as estratégias adotadas para promover a participação dos estudantes na produção acadêmica e como a ICES se mantém atualizada em relação às metodologias de ensino ativas e inovadoras - contemplado no Anexo I;
+
+III - Comprovação da capacidade técnica e operacional para execução do termo a ser efetivado - contemplado no Anexo I;
+
+IV - Projeto Pedagógico dos cursos a serem ofertados;
+
+V - Matriz Curricular dos cursos a serem ofertados;
+
+VI - Declaração do coordenador institucional de que atende aos requisitos do cargo previstos no Regulamento do Programa RS Talentos - Anexo II;
+
+VII - Ofício de ciência e aprovação da proposta, assinado pelo(a) dirigente máximo da ICES;
+
+VIII - Plano de aplicação com estimativa das despesas financeiras relativas as atividades acadêmicas e científicas englobadas na execução do curso de graduação, limitado a R$ 2.000,00 (dois mil reais) mensal/taxa acadêmica. Os recursos necessários excedentes devem ser previstos como contrapartidas financeiras da ICES - Anexo III;
+
+IX - Documentos relativos ao Coordenador Institucional da ICES:
+
+a) Cópia digitalizada do CPF/RG (ambos os lados do documento);
+b) Comprovante de vínculo com a ICES Proponente;
+
+X - Estatuto da ICES e sua MANTENEDORA (se houver), vigente e devidamente registrado no órgão competente, que declare objetivos de cunho social, natureza não lucrativa, relevância pública e pertinência das atividades da entidade com o objetivo da proposta;
+
+XI - Comprovante de inscrição da ICES no Cadastro Nacional de Pessoas Jurídicas (CNPJ);
+
+XII - Ata de posse ou de designação do quadro dirigente atual da ICES e sua MANTENEDORA (se houver), registrada no órgão competente;
+
+XIII - Relação do quadro dirigente atual da ICES e sua MANTENEDORA (se houver) com qualificação completa de cada um (nome, profissão, RG, CPF, endereço completo);
+
+XIV - Cópia do RG e do CPF do representante legal da ICES e de sua MANTENEDORA, se houver;
+
+XV - Comprovantes de endereço da sede da ICES e sua MANTENEDORA (se houver);
+
+XVI - Certidões de regularidade da ICES perante o Fundo de Garantia por Tempo de Serviço - FGTS, as Fazendas Públicas Federal, Estadual e Municipal, e a Justiça do Trabalho;
+
+XVII - Declaração da ICES e sua MANTENEDORA (se houver) quanto à inexistência de impedimento de contratar com a administração pública, e de regularidade no CADIN/RS e no CFIL/RS;
+
+XVIII - Declaração da ICES e sua MANTENEDORA (se houver), assinada por seu dirigente máximo, de que não emprega em seu quadro de pessoal menor de 18 (dezoito) anos em trabalho noturno, perigoso ou insalubre, e menor de 16 (dezesseis) anos em qualquer atividade, salvo na condição de menor aprendiz, a partir de 14 (catorze) anos;
+
+XIX - Declaração do dirigente máximo da ICES e sua MANTENEDORA (se houver) quanto à veracidade de todas suas informações;
+
+XX - Certidão de registro na Secretaria de Desenvolvimento Social - https://social.rs.gov.br/divisao-de-registros ;
+
+XXI - Declaração subscrita pelo representante legal da unidade executora de que atende ao requisito do artigo 39 da Lei Federal nº 13.019/2014 - Anexo V.
+
+8.6 Os documentos solicitados no item 8.5 deverão:
+
+8.6.1 Ser salvos individualmente, por tipo de documento e por pessoa (física/jurídica);
+
+8.6.2 Ser salvos em formato .pdf pesquisável, bem como no formato original editável e desprotegido (.doc ou .xls), quando solicitado no envio da proposta. Serão desconsiderados arquivos nos formatos de imagem, tais como .jpg, .png, .bmp, etc;
+
+8.6.3 Conter nomenclatura concisa que identifique claramente o tipo de documento, sem o uso de acentuação ou de caracteres especiais.
+
+8.7 O Edital de Seleção ficará aberto conforme cronograma disposto e terá sua divulgação pública no site eletrônico da SICT - https://sict.rs.gov.br/inicial.
+
+8.8 Caso seja constatada alguma inconsistência nos documentos enviados, a ICES terá 5 (cinco) dias corridos a partir da comunicação para sanar a pendência. Caso contrário, será desclassificada.
+
+8.9 As propostas e formulários que constituem os Anexos I a V deverão ser assinados pelo representante legal da ICES PROPONENTE, sendo digitalizados em formato PDF pesquisável.
+
+8.10 - O prazo para a submissão das propostas é até o dia 02 de junho de 2025 de acordo com publicação do presente Edital no Diário Oficial do Estado.
+
+9 CRONOGRAMA E SELEÇÃO DAS PROPOSTAS
+
+9.1. As etapas referentes à seleção seguirão os prazos a seguir:
+
+Etapa
+Descrição
+Prazo
+1
+Prazo para recebimento das propostas
+Até 02/06/2025
+2
+Divulgação dos resultados preliminares
+Até 30 dias após conclusão Etapa 1
+3
+Prazo para envio de recursos
+Até 05 dias úteis após conclusão Etapa 2
+4
+Divulgação do resultado final
+Até 05 dias úteis após conclusão Etapa 3
+
+10 PROCESSO DE SELEÇÃO DAS PROPOSTAS
+
+10.1 A seleção dos projetos submetidos em decorrência deste Edital será realizada pela COMISSÃO DE SELEÇÃO, constituída mediante Portaria emitida pela SICT, que poderá se valer de consultores "Ad Hoc".
+
+10.2 A SICT poderá também recorrer ao Conselho Gestor do Programa RS Talentos para assessoramento específico, sempre que necessário.
+
+10.3 Durante o período de análise, poderão ser solicitadas pela COMISSÃO DE SELEÇÃO adequações, complementações e/ou esclarecimentos correlatos à forma e/ou apresentação, sem risco de descaracterização da proposta original, os quais deverão ser atendidos pela instituição PROPONENTE no prazo máximo de 5 (cinco) dias corridos contados do recebimento da solicitação, sob pena de desclassificação do projeto. A remessa de tais solicitações deverá ocorrer para o e-mail do Programa (rstalentos@sict.rs.gov.br).
+
+10.4 As propostas serão avaliadas e classificadas pela COMISSÃO DE SELEÇÃO quanto ao mérito, com observância dos seguintes critérios:
+
+Critérios de análise de mérito e julgamento
+Peso
+Nota
+A - Coerência da proposta com os objetivos e os requisitos do Programa
+2,0
+0 a 10
+B - Experiência da ICES na gestão de atividades ou de projetos relacionados ao ensino, pesquisa e extensão em áreas tecnológicas
+2,0
+0 a 10
+C - Aproximação com ambientes de inovação
+1,0
+0 a 10
+D - Interações com o setor produtivo nas áreas de formação dos alunos
+1,0
+0 a 10
+E - Alinhamento da formação com temas relacionados à sustentabilidade e às mudanças climáticas
+1,5
+0 a 10
+F - Conceito do Curso obtido no âmbito do Sistema Nacional de Avaliação da Educação Superior-SINAES - CPC
+2,0
+0 a 10
+G - Alinhamento com as necessidades dos ecossistemas regionais de inovação
+0,5
+0 a 10
+
+10.5 Em caso de empate entre as ICES proponentes, o critério de desempate será o maior conceito médio no Sistema Nacional de Avaliação da Educação Superior - SINAES - CPC (Conceito Preliminar de Curso) em valor contínuo. Caso os conceitos sejam iguais, será considerado critério de desempate a maior pontuação no item A.
+
+11 DIVULGAÇÃO DOS RESULTADOS E INTERPOSIÇÃO DE RECURSO ADMINISTRATIVO
+
+11.1 A lista de classificação final dos projetos submetidos a este Edital será publicada no PORTAL DE CONVÊNIOS E PARCERIAS RS e no site da SICT (www.sict.rs.gov.br), bem como no Diário Oficial do Estado. A referida lista de classificação também estará à disposição para consulta pública na sede da SICT em Porto Alegre/RS, na Avenida Borges de Medeiros 1501 - 18º andar.
+
+11.2 Os eventuais recursos a quaisquer das etapas de avaliação deverão ser interpostos pelo representante legal da Instituição Proponente, por meio do preenchimento completo do Formulário de Recurso Administrativo (Anexo VI) e encaminhado em formato .pdf para o endereço eletrônico (rstalentos@sict.rs.gov.br).
+
+11.3 As ICES proponentes terão o prazo improrrogável de 05 (cinco) dias úteis, contados da data de divulgação do resultado preliminar de mérito, para apresentarem recurso administrativo referente aos resultados constantes na referida lista, devendo o Titular da SICT deliberar em igual prazo sobre o recurso administrativo recebido.
+
+12 RECURSOS FINANCEIROS
+
+12.1 Para o presente edital, serão destinados recursos na ordem de R$ 14.400.000,00 (Quatorze milhões e quatrocentos mil reais), provenientes do orçamento da SICT, disponibilizados pelo Estado, exclusivamente, para o Programa RS Talentos, dentro do projeto/atividade de n o . 3477 do orçamento, criada para tal fim.
+
+12.2 Será repassada à ICES o valor correspondente à taxa acadêmica de R$2.000,00 (dois mil reais) mensal/taxa acadêmica, para até 200 (duzentos) alunos no total do Programa, correspondente ao número de alunos da ICES beneficiados com a bolsa.
+
+12.3 Será repassada ao aluno beneficiado o valor mensal unitário de R$ 2.000,00 (dois mil reais). Serão concedidas até 200 bolsas de estímulo à inovação na modalidade BICT 5 aos alunos selecionados. O valor não sofrerá reajuste durante o prazo de vigência da bolsa.
+
+12.3.1 A bolsa de estímulo à inovação será paga pela SICT diretamente ao beneficiário mensalmente. O bolsista receberá o auxílio através de crédito em um cartão magnético, de uso pessoal e intransferível, sendo que, até, 50% do valor estará disponível para saque, enquanto o restante deverá ser utilizado para aquisição de produtos e serviços na rede de estabelecimentos comerciais credenciados (Rede Vero), exclusivamente na função débito.
+
+12.3.2 As ICES devem informar à SICT os dados cadastrais para a confecção de cartões dos novos beneficiários do Programa RS Talentos.
+
+12.3.3 As ICES devem informar à SICT as informações necessárias para o processamento do crédito nos cartões dos alunos devidamente matriculados e que atendem aos critérios do Programa.
+
+12.4 Os recursos financeiros, provenientes do orçamento, disponibilizados aos parceiros, pelo Estado exclusivamente para o Programa RS Talentos - Resiliência Climática e Ativação Econômica, serão repassados para as instituições comunitárias de ensino superior semestralmente, cabendo às ICES realizar as prestações de contas técnicas e financeiras, parciais e final, no prazo de 30 (trinta) dias após o encerramento de cada semestre, mediante relatório de execução físico-financeira, até o término da parceria, observadas as Instruções Normativas aplicáveis expedidas pela Contadoria e Auditoria-Geral do Estado - CAGE.
+
+12.5 As despesas financeiras devem compreender as atividades acadêmicas e científicas englobadas na execução do curso de graduação correspondente ao quantitativo de beneficiários do Programa, podendo contemplar despesas com pessoal, de coordenação, de secretariado, de manutenção de laboratórios, de manutenção e desenvolvimento de projetos de pesquisa e de manutenção e desenvolvimento de projetos de extensão, relacionadas de forma direta com o objeto da parceria ou indireta, desde que passível de rateio devidamente demonstrado, em conformidade com o previsto na Lei de Diretrizes Orçamentárias vigente, na Instrução Normativa da CAGE nº 05/2016, Capítulo III, Seção III, e no Manual de Prestação de Contas do Estado do Rio Grande do Sul.
+
+13 ACOMPANHAMENTO DA EXECUÇÃO
+
+13.1 Durante o período de vigência da bolsa, a ICES proponente será responsável por informar à SICT, por escrito, a ocorrência de quaisquer eventos que venham a prejudicar o andamento das bolsas, como o cancelamento, desistência, desempenho insuficiente e faltas injustificadas, de acordo com o Instrumento Jurídico.
+
+13.2 A ICES proponente deverá apresentar relatórios técnico e financeiros semestrais (acompanhados da cópia de matrícula e do histórico dos bolsistas) e final, juntamente com o formulário Síntese de Resultados, conforme estabelecido no instrumento jurídico.
+
+13.3 O aluno beneficiário deverá apresentar, semestralmente, uma cópia do atestado de matrícula até o final do curso e, ao final da graduação, uma cópia do documento que ateste a conclusão do curso, observando os prazos fixados no termo de outorga.
+
+13.4 A SICT poderá, durante a vigência da bolsa, promover visitas técnicas e solicitar informações adicionais visando aperfeiçoar o sistema de avaliação e acompanhamento.
+
+13.5 As bolsas concedidas e os pactos delas decorrentes serão acompanhados, dentro dos prazos definidos legalmente, pela CAGE - Contadoria e Auditoria Geral do Estado do RS e/ou pelo TCE/RS - Tribunal de Contas do Estado.
+
+13.6 A formação dos alunos beneficiários do Programa RS Talentos será acompanhada por um comitê de ampla participação do setor produtivo, visando fomentar a aproximação com o mercado de trabalho e a geração de oportunidades de emprego para os bolsistas.
+
+13.7 A prestação de contas deverá adotar formas simplificadas e padronizadas, assegurando a transparência e destacando os resultados alcançados, por meio de demonstrativos da execução do objeto e da aplicação dos recursos, com os devidos comprovantes.
+
+
+14 RELAÇÃO DE ANEXOS
+
+Anexo I - Formulário de apresentação do projeto;
+Anexo II - Declaração de atendimento aos requisitos de coordenação institucional;
+Anexo III - Estimativa de Plano de aplicação;
+Anexo IV - Declaração de atendimento às condições de elegibilidade;
+Anexo V - Declaração de atendimento ao artigo 39 da Lei nº 13.019/2014;
+Anexo VI - Formulário de Recurso Administrativo;
+Anexo VII - Minuta do Instrumento Jurídico.
+
+15 DISPOSIÇÕES FINAIS
+
+15.1 O ato da inscrição implica o conhecimento e a integral concordância do proponente com as normas e as condições estabelecidas neste Edital.
+
+15.2 Informações complementares, esclarecimentos ou casos omissos devem ser encaminhados para o e-mail: rstalentos@sict.rs.gov.br.
+
+15.3 Os casos omissos, observadas as disposições legais e os princípios que regem a Administração Pública, serão resolvidos pela SICT.
+
+15.4 Todas as informações relativas a inscrições e documentos apresentados pelas ICES interessadas e ao seu julgamento são de caráter estritamente sigiloso e não devem ser divulgadas pelos servidores da SICT, externamente, antes da publicação do resultado do julgamento de seleção.
+
+15.5 O presente Edital de Chamamento Público poderá ser revogado, reestruturado ou anulado, no todo ou em parte, por motivo de interesse público ou exigência legal, sem que isso implique direito à indenização ou reclamação de qualquer natureza por parte das ICES proponentes.
+
+15.6 As questões decorrentes da execução deste instrumento que não possam ser dirimidas administrativamente serão processadas e julgadas na Justiça Estadual.
+1
+Art. 8º Autorizar o financiamento, com recursos do FUNRIGS, do Programa "RS Talentos - Resiliência Climática e Ativação Econômica" , incluído na carteira do Plano Rio Grande no eixo RS do Futuro - Resiliência, destinado a apoiar o ciclo inicial de cursos de nível superior em áreas estratégicas para o desenvolvimento econômico do Estado. A bolsa tem por finalidade auxiliar a manutenção dos alunos cursando o período inicial das engenharias, nas regiões atingidas pelas enchentes (Sul, Central, Metropolitana, Vales e Serra). Serão 200 bolsas do tipo manutenção, no valor unitário de R$ 2.000,00 (dois mil reais) mensais, para apoiar alunos de universidades públicas pelo período de 18 meses, e 200 bolsas manutenção, no valor unitário de R$ 4.000,00 (quatro mil reais) mensais, para apoiar alunos de universidades comunitárias, também pelo período de 18 meses, no valor de R$ 21.600.000,00 (vinte e um milhões e seiscentos mil reais), a ser executado pela Secretaria de Inovação, Ciência e Tecnologia (SICT).
+2 As áreas estratégicas seguem a nomenclatura do Censo da Educação Superior do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP). Variações no nome do curso serão submetidos à avaliação da Comissão de Seleção.

@@ -1,0 +1,48 @@
+PORTARIA DETRAN/RS N.º 184, DE 23 DE MAIO DE 2024
+O DIRETOR-GERAL ADJUNTO DO DEPARTAMENTO ESTADUAL DE TRÂNSITO DO ESTADO
+DO RIO GRANDE DO SUL - DETRAN/RS, no uso das atribuições conferidas pelo artigo 6º da Lei Estadual nº 10.847, de 20 de agosto de 1996, combinado com o artigo 8º da Lei Estadual n.o 14.479, de 23 de janeiro de 2014; e
+Considerando o estado de calamidade pública decretado pelo Governador do Estado do Rio Grande do Sul;
+Considerando o reconhecimento federal da calamidade pública através do Decreto Legislativo nº 36/24;
+Considerando a impossibilidade de acesso ao sistema interno do DETRAN/RS promovido pela PROCERGS, em virtude da enchente que atingiu sua sede institucional;
+Considerando que no atual cenário de calamidade, todos os serviços estão indisponíveis, incidindo na insegurança das formalidades necessárias ao funcionamento do trânsito, dos transportes e principalmente ao atendimento à população;
+Considerando a perda de documentos de muitos dos atingidos pelas enchentes que assolam o Estado;
+Considerando a disposição das empresas seguradoras em simplificar, excepcionalmente neste momento, a indenização e transferência dos veículos em solidariedade aos atingidos, com o objetivo de retomada da economia e incremento de valores às famílias atingidas.
+RESOLVE:
+Art. 1º Autorizar, em caráter excepcional, os procedimentos acessórios de transferência, em virtude dos prejuízos causados pela catástrofe natural que assola o Estado do Rio Grande do Sul.
+Parágrafo único. Estes procedimentos preliminares e acessórios a transferência veicular destinam-se apenas às empresas seguradoras, que, por sua exclusiva responsabilidade e mediante manifestação junto ao DETRAN/RS, pretendam indenizar seus clientes vitimados pela catástrofe.
+Art. 2º O procedimento será realizado exclusivamente através da plataforma CRVA Digital, disponível no endereço eletrônico https://app.crvadigital.com.br/sinistro/, garantida a gratuidade em benefício do segurado.
+Parágrafo único. Para os Termos firmados em até 10 dias a partir da data da publicação desta Portaria, fica dispensado o acesso do Segurado ao link gerado pela Plataforma, devendo a Seguradora fazer o upload do instrumento assinado.
+Art. 3º É requisito obrigatório para a transferência prevista nesta Portaria o preenchimento do Termo de Transferência Veicular Simplificada (Anexo I), proposto pelas Empresas Seguradoras, instrumento de manifestação de vontade das partes sobre a transferência de propriedade do bem.
+Art. 4º O Termo de Transferência Veicular Simplificada deverá ser assinado pelo Segurado/Proprietário através de assinatura eletrônica avançada.
+Art. 5º O Termo de Transferência Veicular Simplificada deverá ser acompanhado dos seguintes documentos, a serem anexados na plataforma CRVA Digital pela Seguradora:
+- Declaração de indenização com a identificação dos valores pagos e respectivos beneficiários, assinada de forma digital, eletrônica ou física com reconhecimento de firma pelo Cartório, pelos representantes das Seguradoras;
+- Nota fiscal emitida pela empresa seguradora como ato de consumação do negócio jurídico entre as partes, exceto se a Seguradora for isenta de emissão, quando poderá substituí-la por declaração de que não é emitente de Nota Fiscal.
+Art. 6º Com a retomada do funcionamento do sistema do DETRAN/RS, a Seguradora deverá proceder com a transferência do veículo, no prazo máximo de 90 dias, mediante a apresentação de:
+- Termo de Transferência Veicular Simplificada, assinado pelo Segurado, acompanhado dos documentos descritos no art. 5º;
+- Vistoria de identificação veicular, a ser realizada por Centro de Registro de Veículos Automotores, no local onde se encontra o veículo;
+- Inexistência de débitos.
+§1º Para a realização da transferência do Segurado/proprietário para a Seguradora através do procedimento previsto nesta Portaria, fica dispensada a apresentação do ATPV-e, CRV e outros, em razão da situação de calamidade.
+§2º Alternativamente, em caso de possibilidade técnica de emissão do ATPV-e, ou se ainda não tiverem sido realizados os procedimentos previstos no Art. 5º, fica autorizada a assinatura digital do Segurado/proprietário no ATPV-e.
+§3º A existência de débitos ou restrições no prontuário dos veículos aqui tratados obstará a transferência, até que solvidos pelas partes interessadas.
+Art. 7º Os veículos recuperáveis de enchente serão classificados como danos de média monta e os irrecuperáveis terão seu registro baixado, sendo que os procedimentos relativos à transferência e à baixa observarão as normativas federais..
+Art. 8º O DETRAN/RS não assumirá qualquer responsabilidade pelos ajustes firmados entre as partes, limitando-se a reconhecer o documento "Termo de Trânsferência Veicular Simplificada" como válido à manifestação de vontade em relação à propriedade do veículo, nele contida.
+Art. 9º Esta Portaria entra em vigor na data da sua publicação.
+ANEXO I
+TERMO DE TRANSFERÊNCIA VEICULAR SIMPLIFICADA
+
+Pelo presente instrumento particular, Seguradora , com sede no endereço
+., inscrita no CNPJ/MF sob
+o nº doravante designada SEGURADORA
+e , portador(a) do RG n° , inscrito no CPF/MF sob o n° , residente e domiciliado na Rua , n° , apto CEP: , /RS, designado SEGURADO, têm entre si, justo e contratado na melhor forma de direito, que mutuamente aceitam e outorgam de comum acordo, o seguinte:
+A SEGURADORA, atuando no ramo securitário, celebrou contrato de seguro com o SEGURADO para cobertura do veículo Marca Modelo , placas ,chassi , por meio da apólice nº
+.
+Em razão do desastre climático ocorrido no estado do Rio Grande do Sul, ocorreu sinistro de alagamento com o veículo segurado no dia , registrado na SEGURADORA sob o processo administrativo nº .
+O SEGURADO concorda em receber da SEGURADORA a quantia de R$ , referente a Indenização Integral do veículo em razão do sinistro em epígrafe, a ser paga após o recebimento deste formulário assinado digitalmente.
+O SEGURADO declara estar ciente que, em virtude da impossibilidade de enviar os documentos solicitados pela seguradora em razão do fechamento das agências dos Correios, a indenização será paga pela SEGURADORA neste momento sem o envio de nenhum documento por parte do SEGURADO, apenas com o envio deste formulário assinado digitalmente.
+Para veículos financiados: É necessário enviar neste momento o boleto bancário emitido pela financeira dando quitação total do financiamento do veículo com prazo de vencimento de __ dias úteis
+O pagamento da indenização será realizado à favor do SEGURADO nos bancários vinculados ao seu CPF n° -
+, no banco , agência conta corrente poupança.
+O SEGURADO está ciente que o pagamento da indenização não poderá ser feito em conta de terceiros, e fornecer dados bancários incorretos que não estejam vinculados ao seu CPF , acarretará em devolução do pagamento por parte do banco e atraso no pagamento da indenização.
+O SEGURADO declara estar ciente que em razão da indisponibilidade no sistema do Detran para consulta de débitos, assume inteira responsabilidade por eventuais débitos ocorridos para o veículo até a data do sinistro, comprometendo-se a efetuar o pagamento caso seja notificado pela Seguradora no momento da transferência do veículo.
+Serve ainda o presente instrumento, como termo de desistência formal de reclamações, bem como, quaisquer outros procedimentos judiciais, extrajudiciais, ou administrativos, ficando autorizado expressamente à SEGURADORA informar o teor desta transação e requerer suas baixas.
+Por ser a expressão da verdade, a presente transação regulada pelos artigos 840 e seguintes do Código Civil vigente, as partes, de comum acordo, firmam o presente em três vias de igual teor, na presença das testemunhas instrumentárias abaixo identificadas.

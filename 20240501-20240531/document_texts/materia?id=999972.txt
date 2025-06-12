@@ -1,0 +1,19 @@
+PORTARIA DETRAN/RS N.º 178, DE 17 DE MAIO DE 2024
+Dispõe sobre o documento provisório para circulação do veículo novo quilômetro.
+O DIRETOR-GERAL ADJUNTO DO DEPARTAMENTO ESTADUAL DE TRÂNSITO DO ESTADO DO RIO GRANDE DO SUL - DETRAN/RS, no uso das atribuições conferidas pelo artigo 6.º da Lei Estadual n.º 10.847, de 20 de agosto de 1996, combinado com o artigo 8.º da Lei Estadual n.º 14.479, de 23 de janeiro de 2014; e
+Considerando o estado de calamidade pública decretado pelo Governador do Estado do Rio Grande do Sul, por meio do Decreto Estadual nº 57.596/2024;
+Considerando o reconhecimento Federal da calamidade pública através do Decreto Legislativo nº 36/2024;
+Considerando a impossibilidade de acesso ao sistema interno do DETRAN/RS promovido pela PROCERGS, em virtude da enchente que atingiu sua sede institucional;
+Considerando que no atual cenário de calamidade, todos os serviços estão indisponíveis, incidindo na insegurança das formalidades necessárias ao funcionamento do trânsito, dos transportes e principalmente ao atendimento à população;
+Considerando a necessidade de fornecimento de documento provisório aos veículos novos, sem envolver custos à sociedade.
+RESOLVE:
+Art. 1º A presente Portaria regulamenta a autorização de circulação de veículos zero quilômetro, mediante documento provisório.
+Art. 2º O procedimento será realizado exclusivamente através da plataforma CRVA Digital.
+Art. 3º A empresa/revendedora que desejar emitir o documento provisório, após a venda de veículo novo 0KM, deve fazer cadastro em plataforma no link https://app.crvadigital.com.br/preCadastroRevenda , que lhe permitirá requerer pelo documento provisório de veículo zero quilômetro, sem os custos decorrentes da emissão do documento.
+Art. 4º Para requerer o documento provisório de veículo zero quilômetro, a empresa/revendedora fará preenchimento dos campos da plataforma, em especial, inserção de dados do comprador, chassi e nota fiscal.
+Parágrafo único. A empresa/revendedora deverá fazer o upload dos documentos do comprador, nota fiscal e se pessoa jurídica do contrato social, sendo responsável pela veracidade dos dados e informações encaminhadas.
+Art. 5º Compete ao CRVA na verificação dos dados, por meio do link https://app.crvadigital.com.br/crva, em especial da DANFE correspondente à Nota Fiscal emitida de acordo com o chassi que será alvo de batimento com a base nacional SENATRAN/SERPRO, emitindo documento provisório.
+Art. 6º O documento provisório terá validade de 15 dias, limitando-se a circulação ao território do Estado do Rio Grande do Sul.
+Art. 7º O DETRAN/RS publicará portaria específica, aos fins de divulgar a abertura dos serviços de vistoria e primeiro emplacamento, ocasião em que o comprador deverá se encaminhar a um CRVA para o competente registro veicular.
+Art. 8 º Esta Portaria entra em vigor em 17/05/2024.
+RAFAEL MENNET
